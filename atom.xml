@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>永延君成</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://yyphic.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://yyphic.github.io/"/>
   <updated>2023-02-08T09:15:38.098Z</updated>
-  <id>http://example.com/</id>
+  <id>http://yyphic.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>yyphic</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>训练比学习更重要</title>
-    <link href="http://example.com/2023/02/08/Num009/"/>
-    <id>http://example.com/2023/02/08/Num009/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num009/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num009/</id>
     <published>2023-02-08T09:15:05.194Z</published>
     <updated>2023-02-08T09:15:38.098Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>技术分析与价值投资</title>
-    <link href="http://example.com/2023/02/08/Num008/"/>
-    <id>http://example.com/2023/02/08/Num008/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num008/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num008/</id>
     <published>2023-02-08T09:04:29.362Z</published>
     <updated>2023-02-08T09:05:06.135Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>长期有效的交易理念</title>
-    <link href="http://example.com/2023/02/08/Num007/"/>
-    <id>http://example.com/2023/02/08/Num007/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num007/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num007/</id>
     <published>2023-02-08T09:01:59.747Z</published>
     <updated>2023-02-08T09:02:23.352Z</updated>
     
@@ -80,8 +80,8 @@
   
   <entry>
     <title>我读《华尔街幽灵》</title>
-    <link href="http://example.com/2023/02/08/Num006/"/>
-    <id>http://example.com/2023/02/08/Num006/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num006/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num006/</id>
     <published>2023-02-08T09:00:23.802Z</published>
     <updated>2023-02-08T09:00:58.308Z</updated>
     
@@ -100,8 +100,8 @@
   
   <entry>
     <title>慢一点没关系</title>
-    <link href="http://example.com/2023/02/08/Num005/"/>
-    <id>http://example.com/2023/02/08/Num005/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num005/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num005/</id>
     <published>2023-02-08T08:57:57.532Z</published>
     <updated>2023-02-08T08:58:38.479Z</updated>
     
@@ -124,8 +124,8 @@
   
   <entry>
     <title>慢就是快</title>
-    <link href="http://example.com/2023/02/08/Num004/"/>
-    <id>http://example.com/2023/02/08/Num004/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num004/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num004/</id>
     <published>2023-02-08T08:54:49.482Z</published>
     <updated>2023-02-08T08:56:10.386Z</updated>
     
@@ -144,8 +144,8 @@
   
   <entry>
     <title>期货交易的几次蜕变</title>
-    <link href="http://example.com/2023/02/08/Num003/"/>
-    <id>http://example.com/2023/02/08/Num003/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num003/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num003/</id>
     <published>2023-02-08T08:52:49.227Z</published>
     <updated>2023-02-08T08:55:06.530Z</updated>
     
@@ -166,8 +166,8 @@
   
   <entry>
     <title>交易系统设计理念</title>
-    <link href="http://example.com/2023/02/08/Num002/"/>
-    <id>http://example.com/2023/02/08/Num002/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num002/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num002/</id>
     <published>2023-02-08T08:47:17.699Z</published>
     <updated>2023-02-08T08:55:09.551Z</updated>
     
@@ -191,8 +191,8 @@
   
   <entry>
     <title>交易体系的基础逻辑</title>
-    <link href="http://example.com/2023/02/08/Num001/"/>
-    <id>http://example.com/2023/02/08/Num001/</id>
+    <link href="http://yyphic.github.io/2023/02/08/Num001/"/>
+    <id>http://yyphic.github.io/2023/02/08/Num001/</id>
     <published>2023-02-08T08:08:38.934Z</published>
     <updated>2023-02-08T08:39:30.001Z</updated>
     
