@@ -1,3 +1,9 @@
+http://example.com/2023/02/08/Num008/
+http://example.com/2023/02/08/Num007/
+http://example.com/2023/02/08/Num006/
+http://example.com/2023/02/08/Num005/
+http://example.com/2023/02/08/Num004/
+http://example.com/2023/02/08/Num002/
+http://example.com/2023/02/08/Num003/
 http://example.com/2023/02/08/Num001/
-http://example.com/2023/02/08/hello-world/
 http://example.com/
